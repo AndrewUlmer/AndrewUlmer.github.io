@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Welcome!"
+title:  "Introduction"
 date:   2020-10-07 16:07:43 -0400
-categories: Introduction
+categories: Logistic
 ---
+Hello, my name is Andrew Ulmer. I graduated with a BS in Computer Engineering from Purdue University in 2019. I co-founded a company called Oqullo during my time at Purdue. We built property analysis tools for owners of large commercial real estate properties using computer vision.
+
 <!---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
